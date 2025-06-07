@@ -1,0 +1,1 @@
+init -> creating the project in local repo and moving to remote
